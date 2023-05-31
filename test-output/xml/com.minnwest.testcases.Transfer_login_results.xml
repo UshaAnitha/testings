@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Minnwest transferLoginpage"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="62.270">
+  <properties />
+  
+  
+            <testcase name="Transfer_login" time="62.270" classname="com.minnwest.testcases.Transfer_login" />
+      
+</testsuite>
